@@ -27,7 +27,8 @@ Plain language makes information accessible to everyone. Jargon can confuse non-
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 - "Execute a command" → "Run a command"
 - "Authenticate credentials" → "Log in"
-It makes it easy to understand anf follow along.
+
+It makes it easy to understand and follow along.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 Examples help readers connect new information to something familiar. Visuals, like diagrams or infographics, make abstract ideas concrete and easier to process.
